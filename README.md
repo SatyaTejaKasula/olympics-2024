@@ -42,7 +42,7 @@ Contributions, issues, and feature requests are welcome. Feel free to check [iss
 
 
 ## Contact
-Satya Teja Kasula - kasulasatyateja@gmail.com
+Satya Teja Kasula - kasulasatyat@gmail.com
 
 Project Link: [https://github.com/yourusername/paris-2024-olympics-visualization](https://github.com/yourusername/paris-2024-olympics-visualization)
 
